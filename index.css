@@ -1,0 +1,23 @@
+.container{
+    margin: 90px;
+    background-color:lightyellow;
+
+
+
+}
+.registratin-form {
+	width: 700px;
+  margin: auto;
+}
+
+.heading{
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+    color: green;
+}
+.sub-btn{
+    text-align: center;
+    margin: auto;
+    padding: 30px;
+}
